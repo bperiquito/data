@@ -1,1 +1,1 @@
-Este Site está publicado em: https://bperiquito.github.io/site_cv_data/
+Este Site está publicado em: https://bperiquito.github.io/data/
